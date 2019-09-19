@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main()
         {
             Console.WriteLine("Hello from Wrox.");
+            Console.WriteLine("Hello from Wrox.");
             Console.ReadLine();
             return;
         }
