@@ -4,12 +4,12 @@ namespace ConsoleApp1
 {
     public class Program
     {
-        static void Main()
-        {
-            Console.WriteLine("Hello from Wrox.");
-            Console.WriteLine("Hello from Wrox.");
-            Console.ReadLine();
-            return;
-        }
+        //public static void Main(string[] args)
+        //{
+        //    console.writeline("hello from wrox.");
+        //    console.writeline("hello from wrox.");
+        //    console.readline();
+        //    return;
+        //}
     }
 }
